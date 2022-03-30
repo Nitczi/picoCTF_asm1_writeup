@@ -1,6 +1,6 @@
 # Write Up - asm1
 
-This is my first time writing a write-up on github. This challenge envolves assembly code, in the hints of it there's a site where you can access and learn some things about assembly (I needed to view more about the language to "understand" more).
+This is my first time writing a write-up on github. This challenge envolves assembly code. In the hints of it, there's a site where you can access and learn some things about assembly (I needed to view more about the language to "understand" more).
 
 ## Score
 **Points: 200**
